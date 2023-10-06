@@ -1,10 +1,8 @@
 # Hoàng Mạnh Toàn
 ---
-
 ## **Demo** 
 ---
 > **Khách hàng**
-
 1. Trang chủ 
 
 ![image](https://user-images.githubusercontent.com/53229758/172412202-94730a5e-7398-4174-a488-392495e33ec7.png)
